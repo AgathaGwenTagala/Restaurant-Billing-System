@@ -12,6 +12,7 @@
 	b. Total bill = sum of individual amount.
 
 	c. Special Discount:
+
 			i. 2% discount if the Total Bill is between 200 – 1,000.00
  			ii. 3%  discount if the Total Bill is in the range of 1001.00 – 2000.00
  			iii. 5% discount if the Total Bill is above 2000.00
